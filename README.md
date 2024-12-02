@@ -2,7 +2,6 @@
 
 This project aims to predict customer churn using a deep learning approach with an Artificial Neural Network (ANN) built using TensorFlow. The trained model is integrated into an interactive Streamlit web application for easy deployment and user interaction.
 
-Key Highlights:
 Objective: Identify customers likely to leave (churn) based on behavioral and demographic data, enabling businesses to take proactive retention measures.
 
 Model:
