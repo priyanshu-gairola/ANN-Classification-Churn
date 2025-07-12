@@ -19,4 +19,4 @@ Scalable architecture for real-world deployment.
 Technologies Used:
 TensorFlow/Keras: For building and training the ANN model.
 Pandas, NumPy: For data preprocessing and manipulation.
-Streamlit: For deploying the app and creating an interactive user interface.
+Streamlit: For deploying the app and creating an interactive user interface
